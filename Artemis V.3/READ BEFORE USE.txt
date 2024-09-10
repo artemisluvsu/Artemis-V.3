@@ -1,0 +1,5 @@
+Open install to install requirements if you don't have them already
+Go to discord, make a server, go to server settings, intergrations, make a webhook
+open webhook and copy the webhook URL
+paste the URL into "av3", press build, then your build should show as a exe in the
+directory.
